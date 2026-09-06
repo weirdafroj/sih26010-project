@@ -8,7 +8,7 @@
 ### Problem Summary
 Rural land surveys in India still rely on colonial-era chain & tape methods. This leads to boundary disputes due to inheritance, unrecorded transactions, encroachments, mismatched RoR and maps, and no updated mutations.
 
-### Proposed Solution - Team WeirdAfroJ
+### Proposed Solution - Team Nanani
 A tech-driven survey platform combining:
 - **Drone Mapping** + RTK/DGPS + CORS for cm-level accuracy
 - **GIS Cadastral Mapping** + Satellite Imagery for geo-referenced parcels
@@ -36,7 +36,7 @@ A tech-driven survey platform combining:
 /mobile-Field verification app (coming soon)
 ### Team Nankani - WCEM
 - Team Leader: [Ganesh waghmare]
-- Members: afroj,aryan,atul,harshad,ganesh,prathmesh,suraj
+- Members: afroj,aryan,atul,harshad,ganesh,prathmesh,
 - Mentor: [Faculty Name]
 
 ### Internal Hackathon Details
