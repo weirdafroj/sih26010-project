@@ -33,11 +33,6 @@ A tech-driven survey platform combining:
 ### Team Nankani - WCEM
 - Team Leader: [Ganesh waghmare]
 - Members: afroj,aryan,atul,harshad,ganesh,prathmesh,
-  
-
-### Internal Hackathon Details
-- Date: 12th Sept 2026, Reading Room, WCEM Nagpur
-- Registration: https://forms.gle/zZMLwykNNVN2UCRW9 (Closes 6th Sept 11:59 PM)
 
 ### How to Run (Prototype)
 ```bash
