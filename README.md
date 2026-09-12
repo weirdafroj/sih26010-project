@@ -8,7 +8,7 @@
 ### Problem Summary
 Rural land surveys in India still rely on colonial-era chain & tape methods. This leads to boundary disputes due to inheritance, unrecorded transactions, encroachments, mismatched RoR and maps, and no updated mutations.
 
-### Proposed Solution - Team Nanani
+### Proposed Solution - Team Nankani
 A tech-driven survey platform combining:
 - **Drone Mapping** + RTK/DGPS + CORS for cm-level accuracy
 - **GIS Cadastral Mapping** + Satellite Imagery for geo-referenced parcels
@@ -29,18 +29,14 @@ A tech-driven survey platform combining:
 - Backend: Node.js / Python FastAPI, PostgreSQL + PostGIS
 - Mobile: Flutter / React Native
 
-### Repo Structure
-/docs-Documentation (API,DB Schema,pitch)
-/frontend-GIS dashboard (coming soon)
-/backend-APIs+ PostGIS (coming soon)
-/mobile-Field verification app (coming soon)
+
 ### Team Nankani - WCEM
 - Team Leader: [Ganesh waghmare]
 - Members: afroj,aryan,atul,harshad,ganesh,prathmesh,
-- Mentor: [Faculty Name]
+  
 
 ### Internal Hackathon Details
-- Date: 10th Sept 2026, Reading Room, WCEM Nagpur
+- Date: 12th Sept 2026, Reading Room, WCEM Nagpur
 - Registration: https://forms.gle/zZMLwykNNVN2UCRW9 (Closes 6th Sept 11:59 PM)
 
 ### How to Run (Prototype)
